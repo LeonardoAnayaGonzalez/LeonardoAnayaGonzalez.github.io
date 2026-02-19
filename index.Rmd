@@ -1,0 +1,29 @@
+---
+title: "Leonardo Anaya"
+image: "yo.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/feed/"
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")`  Github'
+    url: "https://github.com/LeonardoAnayaGonzalez"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:leoianayaglz@gmail.com
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+#### **Bio**
+
+I’m Leonardo Ivan Anaya Gonzalez, an undergraduate student in Genomic Sciences at UNAM. I focus on genomics, population genetics, and bioinformatics, with research experience in GWAS and PRS under Dr. Ale Medina.
+
+#### **Education**
+
+Enes Juriquilla
+
+#### **Experience**
+
+Repository Contributions:
