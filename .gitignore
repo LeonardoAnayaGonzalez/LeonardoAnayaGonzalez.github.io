@@ -1,4 +1,14 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# RMarkdown and other build artifacts
+
+# Built _site directory
+_site/
+
+# Other build artifacts
+*.html
+*.pdf
+*.docx
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Rproj
+*.Rmd
