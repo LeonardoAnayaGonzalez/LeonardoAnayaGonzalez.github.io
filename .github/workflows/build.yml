@@ -19,7 +19,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("rmarkdown", "knitr", "fontawesome"))'
+          Rscript -e 'install.packages(c("rmarkdown", "knitr", "fontawesome", "postcards"))'
 
       - name: Render site
         run: Rscript -e 'rmarkdown::render("index.Rmd", output_dir = "docs")'
