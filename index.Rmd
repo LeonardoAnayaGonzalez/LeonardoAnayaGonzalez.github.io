@@ -6,7 +6,9 @@ links:
     url: "https://www.linkedin.com/feed/"
   - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")`  Github'
     url: "https://github.com/LeonardoAnayaGonzalez"
-
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "leoianayaglz@gmail.com"
+    
 output:
   postcards::jolla
 ---
@@ -25,7 +27,7 @@ Enes Juriquilla
 
 #### **Experience**
 
-
+Repository Contributions:
 
 
 
