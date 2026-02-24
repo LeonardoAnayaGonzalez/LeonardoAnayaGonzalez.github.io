@@ -1,13 +1,12 @@
 ---
 title: "Leonardo Anaya"
-image: "yo.jpg"
+image: "yo.jpg.jpeg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
     url: "https://www.linkedin.com/feed/"
   - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")`  Github'
     url: "https://github.com/LeonardoAnayaGonzalez"
-  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
-    url: "mailto:leoianayaglz@gmail.com
+
 output:
   postcards::jolla
 ---
@@ -26,4 +25,12 @@ Enes Juriquilla
 
 #### **Experience**
 
-Repository Contributions:
+
+
+
+
+
+
+
+
+
